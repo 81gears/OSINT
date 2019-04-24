@@ -1,4 +1,77 @@
 	open soource intelligence
+	
+Threat
+Vulnerability
+Exploit
+Target of Evaluation
+Attack
+
+Phases
+
+1> Reconnaissance
+2> Scanning / Foot Printing
+3> Gaining Access
+4> Maintaining Access
+5> Covering Tracks
+
+Types of attacks
+
+1. Operating System Attacks
+2. Application-level attacks
+3. Shrink Wrap code attacks
+4. Misconfiguration attacks
+
+
+Vulnerability Research Tools
+
+US_CERT( www.us-cert.gov)
+securitytracker.com
+microsoft.com/security
+securiteam,com
+packetstormsecurity.com
+hackerstorm.com
+hackerwatch.org
+
+secunia.com keeps you informed about the latest vulnerabilities
+
+milworm.com upto date info on exploit databases.
+
+Steps to conduct Ethical hacking
+
+1. Talk to your client
+2. Prepare NDA documents and ask the client to sign them
+3. Prepare an ethical hacking team and draw up a testing schedule.
+4. Conduct the test
+5. Analyze the results and prepare a report
+6. Deliver the report to the client.
+
+Approaches to Ethical Hacking
+
+1. Remote Network
+2. Remote dail-up network
+3. Local Network
+4. Stolen Equipment
+5.Social Engineering
+6. Physical Entry
+
+cybercrime.gov
+Computer Crime & Intellectual Property Section
+Cyber Crime Act
+
+__________________________________________________
+
+Information Gathering Methodology
+
+1. Unearth initial information
+2. locate the network range
+3. Ascertain active machines
+4. Discover open ports / access points
+5.Detect operating systems
+6. uncover services on ports
+7. Map the Network
+
+
+
 
 Send secure files
 1) firefox send allows to send encrypted files.
