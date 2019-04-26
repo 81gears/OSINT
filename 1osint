@@ -181,6 +181,17 @@ domain name whois
 https://whois.icann.org/en
 https://www.whois.com/whois/
 
+nslookup
+ARIN
+neo trace
+visualroute trace
+smart whois
+email tracker pro
+website watcher
+
+samspade.com
+
+
 _________________________________
 
 Telephone search tools
@@ -212,6 +223,11 @@ http://web.archive.org/
 digital library of Internet sites and other cultural artifacts in digital form.
 
 _______________________________________
+
+sensepost.com/research web server finger printing.
+HTTRACK
+rafasoft.com   webdata extractor  tool
+----------------------------------------------
 
 Intel Techniques
 https://inteltechniques.com/menu.html
@@ -347,6 +363,29 @@ When you search for targets do not use your real Identity and real accounts
  
  Maltego --- 
  
+ _________
+ 
+DNS Enumerator / you will need perl installed activestate.com
+dns lookup eccouncil.org MX record
+
+
+
+nscan.org
+
+Data dump
+
+--------look up Data dump
+______________________________________________________________
+
+Locate the Network Range
+ISP / NSP Routers
+
+_____________________________
+
+traceroute
+name_of_domain.com/tracerte.html
+
+Bitcoin ---- Tracing Bitcoin
  
  
 
